@@ -32,6 +32,5 @@ Especializado en el diseño de **Frameworks de Automatización Híbrida** que as
 
 ### 📊 Actividad en GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ecam-b&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de ecam-b" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ecam-b&theme=radical" alt="Streak de ecam-b" height="150" />
 </p>
