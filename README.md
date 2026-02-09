@@ -34,9 +34,8 @@ No solo ejecuto pruebas; diseño **ecosistemas de calidad resilientes**. Mi enfo
 ### 🧪 Proyectos Destacados
 
 > [!TIP]
-> **[Hybrid Automation Starter Kit]**
-> Mi framework "State of the Art" que incluye validación de esquemas, persistencia de Auth y arquitectura POM limpia.  
-> *(Próximamente el enlace a tu repositorio público)*
+> **[Hybrid Automation Starter Kit](https://github.com/ecam-b/state-of-the-art-playwright)**
+> Mi framework "State of the Art" que incluye validación de esquemas, persistencia de Auth y arquitectura POM limpia.
 
 ---
 
