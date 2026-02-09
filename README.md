@@ -1,52 +1,37 @@
-# 👋 ¡Hola! Soy Elian Camilo Angarita
-### **Arquitecto de Automatización Híbrida | SDET | Desarrollador Backend**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elian-camilo-angarita-sanguino/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ec.angaritas@gmail.com)
-[![Freelance](https://img.shields.io/badge/Status-Disponible_para_Freelance-green?style=for-the-badge)](mailto:ec.angaritas@gmail.com)
+# 👨‍💻 Elian Camilo Angarita
+### **Software Development Engineer in Test (SDET) & Backend Developer**
 
 ---
 
-### 🎯 Mi Propuesta de Valor
-No solo ejecuto pruebas; diseño **ecosistemas de calidad resilientes**. Mi enfoque reduce el *Time-to-Market* mediante arquitecturas híbridas que garantizan la **Integridad de las APIs** y una **Experiencia de Usuario** impecable.
+### 🎯 Visión de Ingeniería
+Especializado en el diseño de **Frameworks de Automatización Híbrida** que aseguran la **integridad del negocio**. Mi metodología combina la velocidad de las pruebas de API con la precisión de la interfaz de usuario para optimizar el *Time-to-Market*.
 
 ---
 
-### 🛠️ Stack Tecnológico Estratégico
+### 🛠️ Ecosistema Técnico
 
-| Área | Herramientas |
-| :--- | :--- |
-| **Lenguajes** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Automatización** | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) |
-| **API & Backend** | ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **Infraestructura** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+**Lenguajes y Backend** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
----
+**Automatización y Calidad** ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
-### 📈 Impacto de Ingeniería
-
-* **Arquitecto Híbrido:** Especializado en automatización multi-capa (API + UI). Utilizo persistencia de sesión para eliminar pasos redundantes, logrando suites **10x más rápidas**.
-* **Integridad de Contratos:** Implementación de **Pydantic** para blindar el Backend contra cambios disruptivos (*Breaking Changes*).
-* **Eficiencia Operativa:** Reducción de tiempos de regresión en más de un **70%** mediante pipelines inteligentes de CI/CD.
+**Infraestructura y Herramientas** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub_Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-### 🧪 Proyectos Destacados
-
-> [!TIP]
-> **[Hybrid Automation Starter Kit](https://github.com/ecam-b/state-of-the-art-playwright)**
-> Mi framework "State of the Art" que incluye validación de esquemas, persistencia de Auth y arquitectura POM limpia.
+### 🚀 Impacto en Proyectos
+* **Transición a Backend:** Evolución de QA Specialist a Backend Engineer, aplicando principios de Clean Code y lógica de programación avanzada en Python.
+* **Validación de Contratos:** Implementación de Schemas con Pydantic para blindar el Backend contra cambios disruptivos (*Breaking Changes*).
+* **Eficiencia en Regresión:** Reducción de tiempos de ejecución en más de un 70% mediante la persistencia de sesiones y automatización en pipelines de CI/CD.
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 🧪 Proyecto Destacado: Hybrid Starter Kit
+> **[Framework Maestro Python-Playwright](https://github.com/ecam-b/state-of-the-art-playwright)** > Arquitectura escalable que integra validación de esquemas API, persistencia de autenticación y reportes Allure con logs profesionales.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ecam-b&theme=radical" alt="Streak de ecam-b" />
+---
+
+### 📊 Actividad en GitHub
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ecam-b&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de ecam-b" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ecam-b&theme=radical" alt="Streak de ecam-b" height="150" />
 </p>
-
----
-
-### 📫 Contacto Profesional
-- **Ubicación:** Ocaña, Colombia (Disponible para Remoto Global)
-- **Hablemos de ingeniería:** [LinkedIn](https://www.linkedin.com/in/elian-camilo-angarita-sanguino/) | ec.angaritas@gmail.com
