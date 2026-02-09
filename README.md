@@ -43,15 +43,7 @@ No solo ejecuto pruebas; diseño **ecosistemas de calidad resilientes**. Mi enfo
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ecam-b&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de ecam-b" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ecam-b&theme=radical" alt="Streak de ecam-b" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecam-b&layout=compact&theme=radical&count_private=true" alt="Lenguajes de ecam-b" />
 </p>
 
 ---
