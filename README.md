@@ -20,4 +20,4 @@ I recently designed and engineered an autonomous AI agent in Python that revolut
 - Deepening my knowledge in **System Design** and advanced Data Structures.
 - Building high-performance REST APIs with **FastAPI** and integrating them with Dockerized environments.
 
-📫 **Let's connect:** [ec.angaritas@gmail.com](mailto:ec.angaritas@gmail.com) | [LinkedIn](#) *(inserta tu link aquí)*
+📫 **Let's connect:** [ec.angaritas@gmail.com](mailto:ec.angaritas@gmail.com) | [LinkedIn](https://www.linkedin.com/in/elian-camilo-angarita-sanguino/)
