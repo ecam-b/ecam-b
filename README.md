@@ -1,36 +1,23 @@
-# 👨‍💻 Elian Camilo Angarita
-### **Software Development Engineer in Test (SDET) & Backend Developer**
+# Hi there, I'm Elian! 👋
 
----
+I'm an **Electronic Engineer** and **Software Developer** transitioning from QA Automation to Backend Engineering. I specialize in Python, API architecture, and building intelligent automation workflows using Generative AI.
 
-### 🎯 Visión de Ingeniería
-Especializado en el diseño de **Frameworks de Automatización Híbrida** que aseguran la **integridad del negocio**. Mi metodología combina la velocidad de las pruebas de API con la precisión de la interfaz de usuario para optimizar el *Time-to-Market*.
+My background in quality engineering gives me a unique advantage: I don't just write code; I build resilient, testable, and highly optimized systems from the ground up.
 
----
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, SQL, Java, Bash
+- **Backend & Architecture:** FastAPI, Flask, PostgreSQL, RESTful APIs, Clean Architecture, MVC
+- **AI & Automation:** LLM Integrations (OpenAI/Anthropic APIs), Prompt Engineering, AI CLI Agents
+- **Testing (SDET):** Playwright, Pytest, Selenium, Postman (Advanced API Testing)
+- **DevOps:** Git, Docker, CI/CD pipelines
 
-### 🛠️ Ecosistema Técnico
+### 🚀 Featured Project: Whis (QA Autopilot)
+I recently designed and engineered an autonomous AI agent in Python that revolutionizes the software quality lifecycle. **Whis** operates on a hybrid architecture:
+1. **Deterministic Layer:** Handles environment setup, data extraction, and robust reporting.
+2. **Probabilistic Layer (LLM):** Acts as the reasoning engine to dynamically design test cases, analyze execution results, and maintain live project documentation autonomously without manual intervention.
 
-**Lenguajes y Backend** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+### ⚡ What I'm currently working on
+- Deepening my knowledge in **System Design** and advanced Data Structures.
+- Building high-performance REST APIs with **FastAPI** and integrating them with Dockerized environments.
 
-**Automatización y Calidad** ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-
-**Infraestructura y Herramientas** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub_Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-### 🚀 Impacto en Proyectos
-* **Transición a Backend:** Evolución de QA Specialist a Backend Engineer, aplicando principios de Clean Code y lógica de programación avanzada en Python.
-* **Validación de Contratos:** Implementación de Schemas con Pydantic para blindar el Backend contra cambios disruptivos (*Breaking Changes*).
-* **Eficiencia en Regresión:** Reducción de tiempos de ejecución en más de un 70% mediante la persistencia de sesiones y automatización en pipelines de CI/CD.
-
----
-
-### 🧪 Proyecto Destacado: Hybrid Starter Kit
-> **[Framework Maestro Python-Playwright](https://github.com/ecam-b/state-of-the-art-playwright)** > Arquitectura escalable que integra validación de esquemas API, persistencia de autenticación y reportes Allure con logs profesionales.
-
----
-
-### 📊 Actividad en GitHub
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ecam-b&theme=radical" alt="Streak de ecam-b" height="150" />
-</p>
+📫 **Let's connect:** [ec.angaritas@gmail.com](mailto:ec.angaritas@gmail.com) | [LinkedIn](#) *(inserta tu link aquí)*
