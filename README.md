@@ -1,23 +1,50 @@
-# Hi there, I'm Elian! 👋
+# Hi there, I'm Elian 👋
 
-I'm an **Electronic Engineer** and **Software Developer** transitioning from QA Automation to Backend Engineering. I specialize in Python, API architecture, and building intelligent automation workflows using Generative AI.
+I'm a **Backend Developer** and **Electronic Engineer** based in Colombia, focused on building scalable, well-architected APIs in **Python**.
 
-My background in quality engineering gives me a unique advantage: I don't just write code; I build resilient, testable, and highly optimized systems from the ground up.
+My differentiator: years working hand-in-hand with developers as a Quality Engineer taught me to write resilient, testable, and production-ready code from the very first commit. I use AI tools every day — with one clear principle: I use AI, not the other way around.
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** Python, SQL, Java, Bash
-- **Backend & Architecture:** FastAPI, Flask, PostgreSQL, RESTful APIs, Clean Architecture, MVC
-- **AI & Automation:** LLM Integrations (OpenAI/Anthropic APIs), Prompt Engineering, AI CLI Agents
-- **Testing (SDET):** Playwright, Pytest, Selenium, Postman (Advanced API Testing)
-- **DevOps:** Git, Docker, CI/CD pipelines
+---
 
-### 🚀 Featured Project: Whis (QA Autopilot)
-I recently designed and engineered an autonomous AI agent in Python that revolutionizes the software quality lifecycle. **Whis** operates on a hybrid architecture:
-1. **Deterministic Layer:** Handles environment setup, data extraction, and robust reporting.
-2. **Probabilistic Layer (LLM):** Acts as the reasoning engine to dynamically design test cases, analyze execution results, and maintain live project documentation autonomously without manual intervention.
+### 🛠️ Tech Stack
 
-### ⚡ What I'm currently working on
-- Deepening my knowledge in **System Design** and advanced Data Structures.
-- Building high-performance REST APIs with **FastAPI** and integrating them with Dockerized environments.
+- **Languages:** Python, SQL, PHP, Bash
+- **Backend:** FastAPI, Django, Flask, REST APIs, JWT, SQLAlchemy, Pydantic
+- **Databases:** PostgreSQL, MySQL, Alembic (migrations)
+- **Architecture:** Clean Architecture, MVC, SOLID, Repository, Unit of Work, Dependency Injection
+- **DevOps:** Docker, Docker Compose, Git, GitHub Actions, CI/CD
+- **Testing:** Pytest (unit & integration), Playwright
+- **AI & Automation:** OpenAI API, Anthropic API, Claude Code, AI Agents, Prompt Engineering
 
-📫 **Let's connect:** [ec.angaritas@gmail.com](mailto:ec.angaritas@gmail.com) | [LinkedIn](https://www.linkedin.com/in/elian-camilo-angarita-sanguino/)
+---
+
+### 🚀 Featured Project
+
+**[Colmena Finanzas — Personal Finance Management API](https://github.com/elian-camilo/colmena-finanzas-demo)**
+
+Public demo of a project in active development. A production-grade REST API built from scratch as a showcase of backend engineering.
+
+- Strict Clean Architecture (Domain · Application · Infrastructure · Presentation)
+- Patterns: Unit of Work, Repository, Dependency Injection
+- Dual authentication: JWT for API + HttpOnly cookies for web UI
+- Containerized deployment with Docker Compose (isolated test DB)
+- Full unit + integration test suite with Pytest
+- CI/CD with GitHub Actions
+
+**Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · Pydantic · Docker · Pytest
+
+---
+
+### 📚 Currently Learning & Building
+
+- Deepening **System Design** and large-scale architecture patterns
+- Exploring advanced FastAPI features and async patterns
+- Building AI-assisted developer workflows with Claude Code and similar tools
+
+---
+
+### 📫 Let's Connect
+
+- ✉️ **Email:** ec.angaritas@gmail.com
+- 💼 **LinkedIn:** [elian-camilo-angarita-sanguino](https://www.linkedin.com/in/elian-camilo-angarita-sanguino/)
+- 🌎 **Available for:** 100% remote opportunities in LATAM
