@@ -2,9 +2,7 @@
 
 Backend & Fullstack Engineer based in Colombia, building production systems in Python and React.
 
-My differentiator: three years as a Quality Engineer taught me to write 
-resilient, testable, production-ready code from the first commit — not as 
-an afterthought. I use AI tools every day, with one clear principle: 
+My differentiator: three years as a Quality Engineer taught me to write resilient, testable, production-ready code from the first commit — not as an afterthought. I use AI tools every day, with one clear principle: 
 **I use AI. Not the other way around.**
 
 ---
