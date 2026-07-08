@@ -7,7 +7,7 @@ My edge: I test systems understanding their architecture from the inside, becaus
 ## What I've built
 
 - 🧪 **E2E suite from scratch** — 120 manual cases → 220 automated Playwright/Python tests. Full regression: 2 days → 35 minutes.
-- 🤖 **Whis, an AI QA Autopilot** — Python agent with hybrid architecture (deterministic layer + LLM) that cut E2E test creation from ~1 hour to ~15 min per batch. Adopted by engineering and product teams.
+- 🤖 **Whis, an AI QA Autopilot** — Python agent (deterministic layer + LLM) that cut E2E test creation from ~1 hour to ~15 min per batch. Adopted by 4 devs + 1 PM; produced ~20 permanent regression tests and ~100 disposable feature-validation tests.
 - 🔌 **API validation as code** — migrated manual Postman validation to automated tests: 108/115 endpoints (94%) in the CI pipeline.
 - 🚀 **contamelo.com.co** — my own SaaS: unit + integration testing with Pytest (mocks at interface boundaries, real PostgreSQL), GitHub Actions CI, security hardening (mass assignment fix, rate limiting, JWT rotation).
 
